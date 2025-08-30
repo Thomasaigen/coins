@@ -1,0 +1,19 @@
+{
+  "name": "xFractal",
+  "symbol": "X",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/xfrac.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/xfrac.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.xfractal.fun/",
+    "twitter": "https://x.com/xfractaldotfun",
+    "telegram": ""
+  }
+}
