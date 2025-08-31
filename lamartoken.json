@@ -1,0 +1,19 @@
+{
+  "name": "Lamar Jackson",
+  "symbol": "Lamar",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/lamar.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/lamar.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.pigskin.fun/",
+    "twitter": "https://x.com/pigskindotfun",
+    "telegram": ""
+  }
+}
