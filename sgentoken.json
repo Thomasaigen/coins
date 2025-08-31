@@ -1,0 +1,19 @@
+{
+  "name": "Slerf Generator",
+  "symbol": "Generator",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/sgen.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/sgen.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/ohfuckdotfun/status/1961183490809979304",
+    "telegram": ""
+  }
+}
