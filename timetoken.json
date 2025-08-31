@@ -1,0 +1,19 @@
+{
+  "name": "time terminal",
+  "symbol": "time",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/time.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/time.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/thetimeterminal",
+    "telegram": ""
+  }
+}
