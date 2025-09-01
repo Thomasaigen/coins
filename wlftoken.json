@@ -1,0 +1,19 @@
+{
+  "name": "WLFI Treasury",
+  "symbol": "WLFIT",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/wlf.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/wlf.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/WLFITreasury",
+    "telegram": ""
+  }
+}
