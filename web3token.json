@@ -1,0 +1,19 @@
+{
+  "name": "WEB3",
+  "symbol": "WEB3",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/web3.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/web3.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
