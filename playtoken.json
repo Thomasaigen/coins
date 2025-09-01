@@ -1,0 +1,19 @@
+{
+  "name": "Play Solana Games",
+  "symbol": "PSG",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/play.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/play.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/playsolanagames",
+    "telegram": ""
+  }
+}
