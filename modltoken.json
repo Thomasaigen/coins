@@ -1,0 +1,19 @@
+{
+  "name": "MODL",
+  "symbol": "MODL",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/modl.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/modl.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/trymodl",
+    "telegram": ""
+  }
+}
