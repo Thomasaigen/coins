@@ -1,0 +1,19 @@
+{
+  "name": "Larry",
+  "symbol": "Larry",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/larry.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/larry.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/buntfun/status/1961066499516350574",
+    "telegram": ""
+  }
+}
