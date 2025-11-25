@@ -1,0 +1,19 @@
+{
+  "name": "JAILED",
+  "symbol": "JAILED",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/jailed.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/jailed.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/Jaileddotfun",
+    "telegram": ""
+  }
+}
