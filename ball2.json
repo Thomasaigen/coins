@@ -1,0 +1,19 @@
+{
+  "name": "Snowball Effect",
+  "symbol": "SNOWBALL",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/ball2.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/ball2.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/SnowballMET",
+    "telegram": ""
+  }
+}
