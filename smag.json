@@ -1,0 +1,19 @@
+{
+  "name": "QuickSmag",
+  "symbol": "QUICKSMAG",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/smag.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/smag.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.quicksmag.com/",
+    "twitter": "https://x.com/QuickSmag",
+    "telegram": ""
+  }
+}
