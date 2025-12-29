@@ -1,0 +1,19 @@
+{
+  "name": "billie buildlab",
+  "symbol": "BB",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/bla.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/bla.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://billie-met-incubator.carrd.co/",
+    "twitter": "https://x.com/metbuildlab",
+    "telegram": ""
+  }
+}
