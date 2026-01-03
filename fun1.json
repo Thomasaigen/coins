@@ -1,0 +1,19 @@
+{
+  "name": "USD1 FUN",
+  "symbol": "FUN1",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/fun1.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/fun1.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.usd1fun.com/",
+    "twitter": "https://x.com/usd1funs",
+    "telegram": ""
+  }
+}
