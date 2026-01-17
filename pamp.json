@@ -1,0 +1,19 @@
+{
+  "name": "Bogdanoff",
+  "symbol": "PAMP",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/pamp.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/pamp.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://every.meme/",
+    "twitter": "https://x.com/pampcoinsol",
+    "telegram": ""
+  }
+}
