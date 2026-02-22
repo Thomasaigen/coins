@@ -1,0 +1,19 @@
+{
+  "name": "the highest place",
+  "symbol": "SKY",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/sky.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/sky.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.blastgit.com/",
+    "twitter": "",
+    "telegram": ""
+  }
+}
