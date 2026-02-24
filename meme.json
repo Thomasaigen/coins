@@ -1,0 +1,19 @@
+{
+  "name": "only",
+  "symbol": "only",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/meme.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/meme.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://only.meme/",
+    "twitter": "https://x.com/onlydotmeme",
+    "telegram": ""
+  }
+}
