@@ -1,0 +1,19 @@
+{
+  "name": "United States Of America",
+  "symbol": "USA",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/usa.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/usa.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/i/communities/2027871627657040043",
+    "telegram": ""
+  }
+}
