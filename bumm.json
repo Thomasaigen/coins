@@ -1,0 +1,19 @@
+{
+  "name": "Bumm",
+  "symbol": "Bumm",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/boru.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/boru.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.bumm.io/",
+    "twitter": "https://x.com/Bumm_io",
+    "telegram": ""
+  }
+}
